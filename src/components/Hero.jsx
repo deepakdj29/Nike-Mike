@@ -24,8 +24,8 @@ return  (
             </p>
 
             <div className="brand-icons">
-                <img src="./public/amazon.png" alt="amazon" />
-                <img src="./public/flipkart.png" alt="flipkart" />
+                <img src="/amazon.png" alt="amazon" />
+                <img src="/flipkart.png" alt="flipkart" />
 
             </div>
 
@@ -41,7 +41,7 @@ return  (
 
         <div className="hero-Image">
 
-        <img src="./public/shoe_image.png" alt="shoe" />
+        <img src="/shoe_image.png" alt="shoe" />
         </div>
 
 
